@@ -1,17 +1,17 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'The Blueprint',
+  title: 'Stack & Strategy',
   author: 'Abhishek Goudar',
-  headerTitle: 'The Blueprint',
+  // headerTitle: 'Stack + Strategy',
   description:
     'Deconstructing the world of technology. In-depth analysis and visual breakdowns of algorithms, product strategy, tech stacks, and machine learning models.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://abhishekdgoudar.github.io/blueprint',
+  siteUrl: 'https://abhishekdgoudar.github.io/',
   // siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  mastodon: 'https://mastodon.social/@mastodonuser',
+  // mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'abhishekdgoudar@gmail.com',
   github: 'https://github.com/abhishekdgoudar',
   x: 'https://x.com/a_d_goudar',
