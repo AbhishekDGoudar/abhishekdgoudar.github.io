@@ -4,7 +4,8 @@ const siteMetadata = {
   author: 'Abhishek Goudar',
   // headerTitle: 'Stack + Strategy',
   description:
-    'Deconstructing the world of technology. In-depth analysis and visual breakdowns of algorithms, product strategy, tech stacks, and machine learning models.',
+    'Deconstructing technology through in-depth analysis of algorithms, product strategy, tech stacks, and machine learning \
+     models. I also write AI Pulse, a weekly blog reviewing innovation, trends, and economics.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://abhishekdgoudar.github.io/',
@@ -48,6 +49,7 @@ const siteMetadata = {
     // },
     googleAnalytics: {
       googleAnalyticsId: 'G-JC1L2BD3DN', // e.g. G-XXXXXXX
+
     },
   },
   newsletter: {
