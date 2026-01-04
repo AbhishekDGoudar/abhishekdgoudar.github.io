@@ -7,6 +7,12 @@ interface Project {
 
 const projectsData: Project[] = [
   {
+    title: 'AI Architect',
+    description: `AI Architect Studio transforms weeks of planning into minutes by standardizing architecture and generating base code. We designed this to support your product managers and engineers. The platform employs specialized AI agents acting as a virtual software team to analyze and align outputs with your specific requirements. `,
+    imgSrc: '/static/images/AIArchitect.png',
+    href: 'https://aiarchitect.streamlit.app/', // No link provided in source
+  },
+  {
     title: 'Influence Detection in Social Networks',
     description: `Identify the most influential users in social networks using graph analytics and Graph Neural Networks (GNNs).`,
     imgSrc: '/static/images/Influence_Detection.png',
